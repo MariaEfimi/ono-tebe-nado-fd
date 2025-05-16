@@ -1,1 +1,1 @@
-https://github.com/MariaEfimi/ono-tebe-nado
+https://github.com/MariaEfimi/ono-tebe-nado-fd
